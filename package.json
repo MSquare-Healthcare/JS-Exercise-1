@@ -1,0 +1,22 @@
+{
+  "name": "js-exercise-1",
+  "version": "1.0.0",
+  "description": "MSquare Healthcare JS Interview Exercise",
+  "default": "index.html",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MSquare-Healthcare/JS-Exercise-1.git"
+  },
+  "homepage": "https://github.com/MSquare-Healthcare/JS-Exercise-1#readme",
+  "devDependencies": {
+    "parcel": "^2.6.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
